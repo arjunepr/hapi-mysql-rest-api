@@ -1,0 +1,9 @@
+{
+  "name": "hapi-mysql-rest-api",
+  "version": "1.0.0",
+  "description": "A simple Node.js API making use of Hapi.js and MySQL",
+  "main": "index.js",
+  "repository": "git@github.com:arjunepr/hapi-mysql-rest-api.git",
+  "author": "Arjun Raju Pillai <revarjunr@gmail.com>",
+  "license": "MIT"
+}
